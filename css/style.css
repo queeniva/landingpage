@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    font-family: "montserrat";
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+#header {
+    background-color: #a6d0e4;
+    padding: 5% 10%;
+    text-align: center;
+}
+
+#nav-bar {
+    margin-bottom: 3%;
+}
+
+.nav-link {
+    font-family: "montserrat";
+    font-weight: 700;
+}
+
+#form {
+    margin: 5%;
+    color: #fff
+}
+
+.header-text {
+    padding: 1rem;
+    font-size: 50px;
+    text-align: center;
+}
+
+#email {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#features {
+    padding: 5% 10%;
+}
+
+.feauture-icon {
+    color: #a6d0e4;
+}
+
+#howitworks {
+    padding: 10% 20%;
+    background-color: #a6d0e4;
+    text-align: center;
+    ;
+}
+
+#pricing {
+    padding: 5% 10%;
+}
+
+#footer {
+    background-color: #a6d0e4;
+    color: #fff;
+    padding: 5% 10%;
+    text-align: center;
+}
+
+.fa-lg {
+    color: white;
+    margin-bottom: 3%;
+}
